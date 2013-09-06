@@ -1,0 +1,6 @@
+This is a simple dice rolling library that can be used for a dice game. Typical gambling games such as Craps can utilize this library as well as more elaborate dice games (such as tabletop games).
+
+TODO:
+* Extend Dice class to support a specified number of "symbol" type faces.
+  * Faces may or may not be duplicated.
+  * Faces may be blank or have no symbol assigned.
